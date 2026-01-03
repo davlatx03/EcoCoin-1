@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcoCoin Platform",
+  "description": "An environmental platform where users submit eco-friendly activity proof images and earn EcoCoins approved by an admin. Features include image verification, transaction history, sponsor management, and volunteer applications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
